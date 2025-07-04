@@ -109,3 +109,7 @@ Results from Power BI were manually validated using Excel and SQL queries. The k
 ## 📘 Project Outcome
 
 This project showcases a complete BI workflow from raw data to insights. It demonstrates strong hands-on skills in SQL, Power BI, and data storytelling, making it valuable for real-world analytics roles.
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:8A2BE2,0:00FFFF&height=190&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+</div>

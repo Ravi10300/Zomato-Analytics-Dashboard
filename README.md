@@ -1,4 +1,7 @@
-# 🍽️ Zomato Analytics Dashboard
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=190&section=header&text=🍽️Zomato%20Analytics%20Project&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36" />
+</div>
 
 An end-to-end data analytics project that transforms raw Zomato food delivery data into meaningful insights using **Excel**, **MySQL**, and **Power BI**. This interactive dashboard helps stakeholders track operational metrics, customer satisfaction, discount usage, and regional trends for smarter business decisions.
 

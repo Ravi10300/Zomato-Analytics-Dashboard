@@ -96,7 +96,7 @@ Results from Power BI were manually validated using Excel and SQL queries. The k
 
 ## 📸 Dashboard Preview
 
-![Zomato Dashboard](images/dashboard.png)
+![Zomato Dashboard](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png)
 
 ---
 

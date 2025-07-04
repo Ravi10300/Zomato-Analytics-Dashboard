@@ -102,7 +102,8 @@ Results from Power BI were manually validated using Excel and SQL queries. The k
 
 ## 🎥 Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=youtube)](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard%20-%20Video.mp4)
+
 
 ---
 
